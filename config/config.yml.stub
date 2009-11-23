@@ -1,0 +1,9 @@
+development:
+  db_location:
+  db_host: 
+  db_port: 
+  db_username: 
+  db_database:
+  db_password: 
+  db_timeout:
+  listen_to_port:
